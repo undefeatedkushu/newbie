@@ -16,8 +16,8 @@
     background-size: cover;
  }
  .knew{
-    padding: 20px;
     display: grid;
     grid-template-columns: repeat(autofit,minmax(200px,1fr));
-
+    justify-content: center;
+    margin: 15px;
  }
